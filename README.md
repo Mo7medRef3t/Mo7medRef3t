@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Mohamed Refaat</h1>
 <h3 align="left">Mobile Software Engineer (Flutter) from Alexandria, Egypt 🇪🇬</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎯 Dedicated Mobile Software Engineer specializing in **Flutter & Cross-Platform Development**, with a strong foundation in Computing & Data Science (CGPA: 3.51).
 - 🚀 Built **production-ready apps** in tourism, e-commerce, and productivity domains.
