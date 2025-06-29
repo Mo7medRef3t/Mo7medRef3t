@@ -48,7 +48,7 @@ Mobile Software Engineer (Flutter) from Alexandria, Egypt 🇪🇬
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mo7medRef3t&show_icons=true&theme=radical&cache_seconds=600" alt="GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mo7medRef3t&show_icons=true&theme=radical&cache_seconds=60"  height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo7medRef3t&layout=compact&theme=radical" alt="Top languages" height="180"/>
 </p>
 
