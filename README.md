@@ -1,13 +1,17 @@
 <h1 align="left">Hi 👋, I'm Mohamed Refaat</h1>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Mo7medRef3t&label=Profile%20views&color=0e75b6&style=flat" alt="Mo7medRef3t" />
+</p>
+
 <table>
 <tr>
-<td width="10%">
-  
+<td width="60%">
+
 Mobile Software Engineer (Flutter) from Alexandria, Egypt 🇪🇬
 
 - 🎯 Dedicated Mobile Software Engineer specializing in **Flutter & Cross-Platform Development**, with a strong foundation in Computing & Data Science (CGPA: 3.51).
 - 🚀 Built production-ready apps in tourism, e-commerce, and productivity domains.
-- 🧭 Passionate about clean architecture (MVVM, BLoC, GetX), AI-powered features, and building high-performance, user-centered apps.
+- 🧭 Passionate about clean architecture (**MVVM**, **BLoC**, **GetX**), AI-powered features, and building high-performance, user-centered apps.
 - 📌 Open to freelance & remote opportunities.
 
 </td>
@@ -32,8 +36,10 @@ Mobile Software Engineer (Flutter) from Alexandria, Egypt 🇪🇬
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GetX-ffcd00?style=flat&logo=flutter&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-structured-ff69b4?style=flat"/>
+  <img src="https://img.shields.io/badge/MVVM-architecture-blue?style=flat"/>
   <img src="https://img.shields.io/badge/BLoC-00599C?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GetX-ffcd00?style=flat&logo=flutter&logoColor=black"/>
   <img src="https://img.shields.io/badge/REST%20APIs-ff9800?style=flat&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django%20APIs-092E20?style=flat&logo=django&logoColor=white"/>
 </p>
@@ -59,4 +65,5 @@ Mobile Software Engineer (Flutter) from Alexandria, Egypt 🇪🇬
   <a href="https://linkedin.com/in/mohamed-refaat-86baa4246" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="https://github.com/Mo7medRef3t" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
   <a href="mailto:mr6737835@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+  <a href="https://ref3t.my.canva.site/" target="blank"><img align="center" src="https://img.icons8.com/external-others-inmotus-design/48/000000/external-portfolio-resume-others-inmotus-design.png"/></a>
 </p>
