@@ -1,12 +1,21 @@
 <h1 align="left">Hi 👋, I'm Mohamed Refaat</h1>
-<h3 align="left">Mobile Software Engineer (Flutter) from Alexandria, Egypt 🇪🇬</h3>
-
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<table>
+<tr>
+<td width="60%">
+  
+Mobile Software Engineer (Flutter) from Alexandria, Egypt 🇪🇬
 
 - 🎯 Dedicated Mobile Software Engineer specializing in **Flutter & Cross-Platform Development**, with a strong foundation in Computing & Data Science (CGPA: 3.51).
-- 🚀 Built **production-ready apps** in tourism, e-commerce, and productivity domains.
-- 🧭 Passionate about **clean architecture (MVVM, BLoC, GetX)**, AI-powered features, and building high-performance, user-centered apps.
-- 📌 Open to **freelance & remote opportunities**.
+- 🚀 Built production-ready apps in tourism, e-commerce, and productivity domains.
+- 🧭 Passionate about clean architecture (MVVM, BLoC, GetX), AI-powered features, and building high-performance, user-centered apps.
+- 📌 Open to freelance & remote opportunities.
+
+</td>
+<td>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</td>
+</tr>
+</table>
 
 ---
 
@@ -26,20 +35,22 @@
   <img src="https://img.shields.io/badge/GetX-ffcd00?style=flat&logo=flutter&logoColor=black"/>
   <img src="https://img.shields.io/badge/BLoC-00599C?style=flat&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20APIs-ff9800?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django%20APIs-092E20?style=flat&logo=django&logoColor=white"/>
 </p>
 
 ---
 
 ### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mo7medRef3t&show_icons=true&theme=radical" alt="Mohamed Refaat's GitHub stats"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo7medRef3t&layout=compact&theme=radical" alt="Top languages"/>
-</p>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Mo7medRef3t&show_icons=true&theme=radical" alt="GitHub stats"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo7medRef3t&layout=compact&theme=radical" alt="Top languages"/>
+</td>
+</tr>
+</table>
 
 ---
 
