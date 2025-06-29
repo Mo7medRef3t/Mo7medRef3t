@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Mohamed Refaat</h1>
 <table>
 <tr>
-<td width="60%">
+<td width="10%">
   
 Mobile Software Engineer (Flutter) from Alexandria, Egypt 🇪🇬
 
