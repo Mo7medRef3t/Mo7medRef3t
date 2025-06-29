@@ -1,38 +1,51 @@
-<h1 align="center">Hi 👋, I'm Mohamed Refaat</h1>
-<h3 align="center">A Mobile Software Engineer from Egypt 🇪🇬</h3>
+<h1 align="left">Hi 👋, I'm Mohamed Refaat</h1>
+<h3 align="left">Mobile Software Engineer (Flutter) from Alexandria, Egypt 🇪🇬</h3>
 
-- 🔭 I’m currently working on **Egyptopia: a smart tourism app**
-- 🌱 I’m currently learning **advanced backend with Django REST**
-- 👯 I’m looking to collaborate on **Flutter freelance projects**
-- 💬 Ask me about **Flutter | Dart | Mobile Architecture**
-- 📫 How to reach me: **mo7med.ref3t@gmail.com**
-- 📝 Check out my portfolio: [https://ref3t.my.canva.site/](https://ref3t.my.canva.site/)
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<h3 align="left">Connect with me:</h3>
+- 🎯 Dedicated Mobile Software Engineer specializing in **Flutter & Cross-Platform Development**, with a strong foundation in Computing & Data Science (CGPA: 3.51).
+- 🚀 Built **production-ready apps** in tourism, e-commerce, and productivity domains.
+- 🧭 Passionate about **clean architecture (MVVM, BLoC, GetX)**, AI-powered features, and building high-performance, user-centered apps.
+- 📌 Open to **freelance & remote opportunities**.
+
+---
+
+### 🌟 Featured Projects
+- 🔥 [Egyptopia](https://github.com/Mo7medRef3t/Egyptopia) — AI-powered smart tourism app with itinerary planner, smart recommendations & chatbot.
+- 🛒 [Fruit Market](https://github.com/Mo7medRef3t/fruits_market) — E-commerce app with Firebase Auth, Storage & dynamic categories.
+- 📚 [Bookly](https://github.com/Mo7medRef3t/bookly) — Google Books integrated app with BLoC & advanced MVVM.
+- 🏢 [CoWork Connect](https://github.com/Mo7medRef3t/cowork-connect) — Productivity app for freelancers to find & book coworking spaces.
+
+---
+
+### 🛠 Tech Stack
 <p align="left">
-<a href="https://linkedin.com/in/mo7med-ref3t" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="https://github.com/Mo7medRef3t" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GetX-ffcd00?style=flat&logo=flutter&logoColor=black"/>
+  <img src="https://img.shields.io/badge/BLoC-00599C?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-ff9800?style=flat&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django%20APIs-092E20?style=flat&logo=django&logoColor=white"/>
 </p>
 
 ---
 
-📊 **GitHub Stats:**
-![](https://github-readme-stats.vercel.app/api?username=Mo7medRef3t&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo7medRef3t&layout=compact&theme=radical)
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mo7medRef3t&show_icons=true&theme=radical" alt="Mohamed Refaat's GitHub stats"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo7medRef3t&layout=compact&theme=radical" alt="Top languages"/>
+</p>
 
 ---
 
-🚀 **Fun animated banner:**  
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+### 📫 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/mohamed-refaat-86baa4246" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://github.com/Mo7medRef3t" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
+  <a href="mailto:mr6737835@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
 </p>
