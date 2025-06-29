@@ -5,7 +5,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
 Mobile Software Engineer (Flutter) from Alexandria, Egypt 🇪🇬
 
@@ -16,7 +16,7 @@ Mobile Software Engineer (Flutter) from Alexandria, Egypt 🇪🇬
 
 </td>
 <td>
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </td>
 </tr>
 </table>
@@ -65,5 +65,4 @@ Mobile Software Engineer (Flutter) from Alexandria, Egypt 🇪🇬
   <a href="https://linkedin.com/in/mohamed-refaat-86baa4246" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="https://github.com/Mo7medRef3t" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
   <a href="mailto:mr6737835@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
-  <a href="https://ref3t.my.canva.site/" target="blank"><img align="center" src="https://img.icons8.com/external-others-inmotus-design/48/000000/external-portfolio-resume-others-inmotus-design.png"/></a>
 </p>
