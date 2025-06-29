@@ -3,9 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=Mo7medRef3t&label=Profile%20views&color=0e75b6&style=flat" alt="Mo7medRef3t" />
 </p>
 
-<table>
+<table border="0">
 <tr>
-<td width="50%">
+<td width="60%">
 
 Mobile Software Engineer (Flutter) from Alexandria, Egypt 🇪🇬
 
@@ -47,16 +47,10 @@ Mobile Software Engineer (Flutter) from Alexandria, Egypt 🇪🇬
 ---
 
 ### 📈 GitHub Stats
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Mo7medRef3t&show_icons=true&theme=radical" alt="GitHub stats"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo7medRef3t&layout=compact&theme=radical" alt="Top languages"/>
-</td>
-</tr>
-</table>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mo7medRef3t&show_icons=true&theme=radical" alt="GitHub stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo7medRef3t&layout=compact&theme=radical" alt="Top languages" height="200"/>
+</p>
 
 ---
 
@@ -66,3 +60,4 @@ Mobile Software Engineer (Flutter) from Alexandria, Egypt 🇪🇬
   <a href="https://github.com/Mo7medRef3t" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
   <a href="mailto:mr6737835@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
 </p>
+
