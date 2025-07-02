@@ -9,7 +9,7 @@
 
 Mobile Software Engineer (Flutter) from Alexandria, Egypt 🇪🇬
 
-- 🎯 Dedicated Mobile Software Engineer specializing in **Flutter & Cross-Platform Development**, with a strong foundation in Computing & Data Science CGPA: 3.53/4.0000)
+- 🎯 Dedicated Mobile Software Engineer specializing in **Flutter & Cross-Platform Development**, with a strong foundation in Computing & Data Science CGPA: (3.53/4.0000)
 - 🚀 Built production-ready apps in tourism, e-commerce, and productivity domains.
 - 🧭 Passionate about clean architecture (**MVVM**, **BLoC**, **GetX**), AI-powered features, and building high-performance, user-centered apps.
 - 📌 Open to freelance & remote opportunities.
